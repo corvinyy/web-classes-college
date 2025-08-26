@@ -1,7 +1,7 @@
 # 🔗 Web Dev Classes — Initial
 **`Learning FrontEnd in college`**
 
-✨ This repository contains my **web development** classes, where I document and organize everything I learn about FrontEnd.
+✨ This repository contains my **web development** classes from college, where I document and organize everything I learn about FrontEnd.
 
 ---
 
